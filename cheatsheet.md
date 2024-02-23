@@ -196,4 +196,4 @@ language-2
 
 > hm ny jo markdown k liye extensions install ki hein VS Code mn un ko use krty huye hm kisi b chz ko ya text ko select kr k right click kren gy to hmary pas bht sary options ajaein gy jin mn se hm apni mrzi ka koi b option select krskty hn jo b kam hm ny krna hoga ....... isky ilawa hm keyboard shortcut b use krskty hn likr bold krny k liye text ko slct kr k ctrl+b ka use krskty hn italic krny k liye ctrl+i and many more etc.....
 
-# 14- Now push it on github 
+
